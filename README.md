@@ -2,7 +2,7 @@ Privacy Policy
 This privacy policy applies to the Astro Shooter app (hereby referred to as "Application") for mobile devices that was created by Pixel Studio Code (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
-Information Collection and Use
+Information Collection and Use - 
 The Application doesn't collect any information from the user itself.
 
 
