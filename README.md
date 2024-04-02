@@ -11,7 +11,8 @@ Third Party Access
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Google Play Services - https://www.google.com/policies/privacy/
+Google Play Services - https://www.google.com/policies/privacy/ 
+
 AdMob - https://support.google.com/admob/answer/6128543?hl=en
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
